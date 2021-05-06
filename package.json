@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API TESTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "CYPRESS."
+  ],
+  "author": "Valentas Mitkus",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  }
+}
